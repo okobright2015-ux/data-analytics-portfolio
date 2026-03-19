@@ -25,7 +25,7 @@ I specialise in:
 
 ## 📊 Featured Projects
 
-### 1. AdventureWorks Sales Dashboard
+### 1.Sales Performance Dashboard
 Power BI dashboard analysing sales performance, revenue trends and product insights.
 
 👉 [View Project](https://github.com/okobright2015-ux/powerbi-sales-dashboard)
